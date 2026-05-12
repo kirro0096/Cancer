@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 $pageTitle = 'ガチャ';
-$bodyClass = '';
+$bodyClass = 'gacha-page-body';
 $scriptFile = 'script';
 $assetBase = 'assets';
 $brandTitle = 'Cancer Gacha';
